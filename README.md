@@ -1,9 +1,9 @@
 - Name: Ethan Khamis
-- Age: 16
+- Age: 17
 - Sixth Form 1st Year
-- Currently studying C++ and Python
+- Currently studying C++
 - Junior Game Developer (UE5)
-- Junior C++ Programmer 
+- C++ Programmer 
 - Solid Python Programming Knowledge
 
 Looking for projects to work on to build my programming knowledge
