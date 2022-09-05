@@ -1,9 +1,7 @@
 - Name: Ethan Khamis
 - Age: 17
-- Sixth Form 1st Year
-- Currently studying C++
-- Intermediate C++ Programmer 
-- Solid Python Programming Knowledge
+- Sixth Form 2nd Year
+- C++ Programmer
 
 <!---
 ethankhamis/ethankhamis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
