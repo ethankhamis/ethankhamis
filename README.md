@@ -1,7 +1,4 @@
 - Name: Ethan Khamis
-- Age: 18
-- Sixth Form 2nd Year
-- C++ Programmer
 
 <!---
 ethankhamis/ethankhamis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
